@@ -51,7 +51,7 @@ channels = [
     'snatch_cloud', 'spamsmtpcombo', 'Storm_Free_Config', 'techpwnews',
     'We_are_not_eternal', 'windmarketo', 'Cracking_Pro', 'crackinghacks', 'ctinow',
     'offensiveTwitter', 'Offensiv3Sec', 'Hackgit', 'vxunderground', 'CyberSecurityNews',
-    'ReverseEngineeringHangout'
+    'ReverseEngineeringHangout', 'RalfHackerChannel'
 ]
 
 # Event to signal when the script is done
