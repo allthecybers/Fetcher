@@ -120,12 +120,6 @@ This Python script fetches English-language messages from the last 4 hours from 
 
 
 
-     - If you press a key and Enter during execution, it responds:
-
-       ```
-       I TOLD YOU I WAS BUSY, GIVE ME A MINUTE!
-       ```
-
 ## Files
 
 - **fetcher.py**: The main script that authenticates with Telegram, fetches, and displays messages.
