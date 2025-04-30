@@ -17,7 +17,6 @@ This Python script fetches English-language messages from the last 4 hours from 
 - **Clean Output**: Displays results in a terminal table with columns for Channel, Message (truncated to 300 characters), and Timestamp.
 - **Message Filtering**: Excludes welcome messages (e.g., "welcome to", "how are you?").
 - **Error Suppression**: Suppresses specific Telegram username errors (e.g., "Nobody is using this username").
-- **Interactive Keypress Handling**: Responds to keypresses with "I TOLD YOU I WAS BUSY, GIVE ME A MINUTE!".
 - **Rate Limiting**: Respects Telegram API limits with a 2-second delay between requests.
 
 ## Prerequisites
