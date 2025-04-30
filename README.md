@@ -117,7 +117,8 @@ This Python script fetches English-language messages from the last 4 hours from 
 
      - Example output (after authentication):
 
-    ![image](https://github.com/user-attachments/assets/278d3a37-5c66-40e2-8629-76b7a833e8c8)
+       ![image](https://github.com/user-attachments/assets/23807ec3-7afd-4823-8aec-2ba0464e0d54)
+
 
 
      - If you press a key and Enter during execution, it responds:
